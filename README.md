@@ -85,7 +85,7 @@ cv2.destroyAllWindows()
 
 ### Histogram of Grayscale Image and any channel of Color Image
 ![github.logo](husk1.png)
-![gihub.logo](huskihist.png)
+![gihub.logo](huskhist.png)
 
 ### Histogram Equalization of Grayscale Image
 ![github.logo](sport1.png)
