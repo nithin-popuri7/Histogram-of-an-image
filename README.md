@@ -7,24 +7,24 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+Import the necessary libraries and read two images, Color image and Gray Scale image.
 
 ### Step2:
-<br>
+Calculate the Histogram of Gray scale image and each channel of the color image.
 
 ### Step3:
-<br>
+Display the histograms with their respective images.
 
 ### Step4:
-<br>
+Equalize the grayscale image.
 
 ### Step5:
-<br>
+Display the grayscale image.
 
 ## Program:
 ```python
-# Developed By:
-# Register Number:
+# Developed By:P.Siva Naga Nithin
+# Register Number:212221240037
 import cv2
 import matplotlib.pyplot as plt
 
@@ -79,17 +79,17 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
+![github.logo](gray.png)
+![github.logo](grayhist.png)
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
-<br>
-<br>
-<br>
-<br>
+![github.logo](husk1.png)
+![gihub.logo](huskihist.png)
 
 ### Histogram Equalization of Grayscale Image
-![github.logo](sport1)
-![github.logo](sport)
+![github.logo](sport1.png)
+![github.logo](sport.png)
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
